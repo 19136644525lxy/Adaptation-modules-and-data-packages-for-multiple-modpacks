@@ -1,2 +1,2 @@
-# Adaptation-modules-and-data-packages-for-multiple-modpacks
+# Custom packet aggregates
 Adaptation modules and data packages for multiple modpacks
